@@ -1,0 +1,13 @@
+# Ignore all .log files
+*.log
+
+# Ignore the node_modules directory
+node_modules/
+
+# Ignore a specific file
+secret-config.env
+
+# Ignore all Media file
+*.mp4
+Assets/*.*
+#
